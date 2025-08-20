@@ -1,0 +1,81 @@
+{
+  "year": 2025,
+  "months": [
+    {
+      "month": "August",
+      "events": [
+        {
+          "date_human": "August 14, 2025",
+          "date_iso": "2025-08-14",
+          "tour_name": "Lighthouse & Spaceflight Premier Tour",
+          "duration_hours": 4,
+          "time_label": "9:00 AM",
+          "time_24h": "09:00",
+          "status": "Sold Out",
+          "spots_left": null,
+          "waitlist": false
+        },
+        {
+          "date_human": "August 20, 2025",
+          "date_iso": "2025-08-20",
+          "tour_name": "Lighthouse & Hangar C Excursion",
+          "duration_hours": 2,
+          "time_label": "10:00 AM",
+          "time_24h": "10:00",
+          "status": "Available",
+          "spots_left": 8,
+          "waitlist": false
+        },
+        {
+          "date_human": "August 20, 2025",
+          "date_iso": "2025-08-20",
+          "tour_name": "Lighthouse & Missile Museum Excursion",
+          "duration_hours": 3,
+          "time_label": "9:00 AM",
+          "time_24h": "09:00",
+          "status": "Available",
+          "spots_left": 5,
+          "waitlist": false
+        },
+        {
+          "date_human": "August 28, 2025",
+          "date_iso": "2025-08-28",
+          "tour_name": "Lighthouse & Spaceflight Premier Tour",
+          "duration_hours": 4,
+          "time_label": "9:00 AM",
+          "time_24h": "09:00",
+          "status": "Available",
+          "spots_left": 10,
+          "waitlist": false
+        }
+      ]
+    },
+    {
+      "month": "September",
+      "events": [
+        {
+          "date_human": "September 3, 2025",
+          "date_iso": "2025-09-03",
+          "tour_name": "Lighthouse & Hangar C Excursion",
+          "duration_hours": 2,
+          "time_label": "11:00 AM",
+          "time_24h": "11:00",
+          "status": "Available",
+          "spots_left": 10,
+          "waitlist": false
+        },
+        {
+          "date_human": "September 4, 2025",
+          "date_iso": "2025-09-04",
+          "tour_name": "Lighthouse & Spaceflight Premier Tour",
+          "duration_hours": 4,
+          "time_label": "9:00 AM",
+          "time_24h": "09:00",
+          "status": "Available",
+          "spots_left": 10,
+          "waitlist": false
+        }
+      ]
+    }
+  ]
+}
