@@ -1,0 +1,715 @@
+{
+  "name": "Project Outline (from Beta-6)",
+  "pages": [
+    {
+      "id": "about-section",
+      "title": "Untitled",
+      "pathname": "/about-section",
+      "source_files": [
+        "converted/about-section.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "app",
+      "title": "Untitled",
+      "pathname": "/App",
+      "source_files": [
+        "converted/App.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "availability-dashboard",
+      "title": "Untitled",
+      "pathname": "/availability-dashboard",
+      "source_files": [
+        "converted/availability-dashboard.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "availabilitydashboard",
+      "title": "Untitled",
+      "pathname": "/AvailabilityDashboard",
+      "source_files": [
+        "converted/AvailabilityDashboard.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "badge",
+      "title": "Untitled",
+      "pathname": "/badge",
+      "source_files": [
+        "converted/badge.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "booking-section",
+      "title": "Untitled",
+      "pathname": "/booking-section",
+      "source_files": [
+        "converted/booking-section.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "button",
+      "title": "Untitled",
+      "pathname": "/button",
+      "source_files": [
+        "converted/button.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "card",
+      "title": "Untitled",
+      "pathname": "/card",
+      "source_files": [
+        "converted/card.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "checkbox",
+      "title": "Untitled",
+      "pathname": "/checkbox",
+      "source_files": [
+        "converted/checkbox.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "contact-section",
+      "title": "Untitled",
+      "pathname": "/contact-section",
+      "source_files": [
+        "converted/contact-section.html"
+      ],
+      "sections": [
+        {
+          "key": "grid lg:grid-cols-2 gap-12",
+          "kind": "section"
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "dialog",
+      "title": "Untitled",
+      "pathname": "/dialog",
+      "source_files": [
+        "converted/dialog.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "footer",
+      "title": "Untitled",
+      "pathname": "/footer",
+      "source_files": [
+        "converted/footer.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "hero-section",
+      "title": "Untitled",
+      "pathname": "/hero-section",
+      "source_files": [
+        "converted/hero-section.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "home",
+      "title": "Untitled",
+      "pathname": "/home",
+      "source_files": [
+        "converted/home.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "input",
+      "title": "Untitled",
+      "pathname": "/input",
+      "source_files": [
+        "converted/input.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "label",
+      "title": "Untitled",
+      "pathname": "/label",
+      "source_files": [
+        "converted/label.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "lighthousetours",
+      "title": "Untitled",
+      "pathname": "/LighthouseTours",
+      "source_files": [
+        "converted/LighthouseTours.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "main",
+      "title": "Untitled",
+      "pathname": "/main",
+      "source_files": [
+        "converted/main.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "meetingpoint",
+      "title": "Untitled",
+      "pathname": "/MeetingPoint",
+      "source_files": [
+        "converted/MeetingPoint.html"
+      ],
+      "sections": [
+        {
+          "key": "\n        mt-3\n        grid\n        grid-rows-[auto_auto_1fr]\n        gap-2\n        min-h-[180px]\n      ",
+          "kind": "section"
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "navigation",
+      "title": "Untitled",
+      "pathname": "/navigation",
+      "source_files": [
+        "converted/navigation.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "nextavailablebutton",
+      "title": "Untitled",
+      "pathname": "/NextAvailableButton",
+      "source_files": [
+        "converted/NextAvailableButton.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "not-found",
+      "title": "404 Page Not Found",
+      "pathname": "/not-found",
+      "source_files": [
+        "converted/not-found.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "progress",
+      "title": "Untitled",
+      "pathname": "/progress",
+      "source_files": [
+        "converted/progress.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "reviews-section",
+      "title": "Untitled",
+      "pathname": "/reviews-section",
+      "source_files": [
+        "converted/reviews-section.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "reviews",
+      "title": "Untitled",
+      "pathname": "/Reviews",
+      "source_files": [
+        "converted/Reviews.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "select",
+      "title": "Untitled",
+      "pathname": "/select",
+      "source_files": [
+        "converted/select.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "separator",
+      "title": "Untitled",
+      "pathname": "/separator",
+      "source_files": [
+        "converted/separator.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "skeleton",
+      "title": "Untitled",
+      "pathname": "/skeleton",
+      "source_files": [
+        "converted/skeleton.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "spaceforcemuseum",
+      "title": "Untitled",
+      "pathname": "/SpaceForceMuseum",
+      "source_files": [
+        "converted/SpaceForceMuseum.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "textarea",
+      "title": "Untitled",
+      "pathname": "/textarea",
+      "source_files": [
+        "converted/textarea.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "toast",
+      "title": "Untitled",
+      "pathname": "/toast",
+      "source_files": [
+        "converted/toast.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "toaster",
+      "title": "Untitled",
+      "pathname": "/toaster",
+      "source_files": [
+        "converted/toaster.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "tooltip",
+      "title": "Untitled",
+      "pathname": "/tooltip",
+      "source_files": [
+        "converted/tooltip.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "tourcalendar",
+      "title": "Untitled",
+      "pathname": "/TourCalendar",
+      "source_files": [
+        "converted/TourCalendar.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "tours-section",
+      "title": "Untitled",
+      "pathname": "/tours-section",
+      "source_files": [
+        "converted/tours-section.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "use-scroll",
+      "title": "Untitled",
+      "pathname": "/use-scroll",
+      "source_files": [
+        "converted/use-scroll.html"
+      ],
+      "sections": [],
+      "children": []
+    },
+    {
+      "id": "use-toast",
+      "title": "Untitled",
+      "pathname": "/use-toast",
+      "source_files": [
+        "converted/use-toast.html"
+      ],
+      "sections": [],
+      "children": []
+    }
+  ],
+  "components": [
+    "AboutSection",
+    "AlertCircle",
+    "AlertTriangle",
+    "App",
+    "Array",
+    "ArrowRight",
+    "AvailabilityDashboard",
+    "Badge",
+    "Booking",
+    "BookingSection",
+    "Building",
+    "Button",
+    "Calendar",
+    "Camera",
+    "Card",
+    "CardContent",
+    "CardFooter",
+    "CardHeader",
+    "CardTitle",
+    "Check",
+    "CheckCircle",
+    "Checkbox",
+    "CheckboxPrimitive",
+    "ChevronDown",
+    "ChevronIcon",
+    "ChevronLeft",
+    "ChevronRight",
+    "ChevronUp",
+    "Clock",
+    "Comp",
+    "ContactMessage",
+    "ContactSection",
+    "Dialog",
+    "DialogContent",
+    "DialogHeader",
+    "DialogOverlay",
+    "DialogPortal",
+    "DialogPrimitive",
+    "DialogTitle",
+    "Footer",
+    "HTMLButtonElement",
+    "HTMLDivElement",
+    "HTMLElement",
+    "HTMLInputElement",
+    "HTMLTextAreaElement",
+    "HelmetProvider",
+    "HeroSection",
+    "Input",
+    "Label",
+    "LabelPrimitive",
+    "Link",
+    "MapPin",
+    "Navigation",
+    "NextAvailableButton",
+    "NodeJS",
+    "Progress",
+    "ProgressPrimitive",
+    "QueryClientProvider",
+    "React",
+    "Record",
+    "RefreshCw",
+    "Response",
+    "Review",
+    "ReviewsSection",
+    "Rocket",
+    "Route",
+    "Router",
+    "Select",
+    "SelectContent",
+    "SelectItem",
+    "SelectPrimitive",
+    "SelectScrollDownButton",
+    "SelectScrollUpButton",
+    "SelectTrigger",
+    "SelectValue",
+    "SeparatorPrimitive",
+    "Server",
+    "Skeleton",
+    "SparkleIcon",
+    "State",
+    "Switch",
+    "T",
+    "Textarea",
+    "Toast",
+    "ToastClose",
+    "ToastDescription",
+    "ToastPrimitives",
+    "ToastProvider",
+    "ToastTitle",
+    "ToastViewport",
+    "Toaster",
+    "ToasterToast",
+    "TooltipPrimitive",
+    "TooltipProvider",
+    "Tour",
+    "TourCalendar",
+    "TourCard",
+    "TourEvent",
+    "ToursDropdown",
+    "ToursResponse",
+    "ToursSection",
+    "User",
+    "X"
+  ],
+  "routes": [
+    {
+      "path": "/about-section",
+      "component": "about-section"
+    },
+    {
+      "path": "/App",
+      "component": "App"
+    },
+    {
+      "path": "/availability-dashboard",
+      "component": "availability-dashboard"
+    },
+    {
+      "path": "/AvailabilityDashboard",
+      "component": "AvailabilityDashboard"
+    },
+    {
+      "path": "/badge",
+      "component": "badge"
+    },
+    {
+      "path": "/booking-section",
+      "component": "booking-section"
+    },
+    {
+      "path": "/button",
+      "component": "button"
+    },
+    {
+      "path": "/card",
+      "component": "card"
+    },
+    {
+      "path": "/checkbox",
+      "component": "checkbox"
+    },
+    {
+      "path": "/contact-section",
+      "component": "contact-section"
+    },
+    {
+      "path": "/dialog",
+      "component": "dialog"
+    },
+    {
+      "path": "/footer",
+      "component": "footer"
+    },
+    {
+      "path": "/hero-section",
+      "component": "hero-section"
+    },
+    {
+      "path": "/home",
+      "component": "home"
+    },
+    {
+      "path": "/input",
+      "component": "input"
+    },
+    {
+      "path": "/label",
+      "component": "label"
+    },
+    {
+      "path": "/LighthouseTours",
+      "component": "LighthouseTours"
+    },
+    {
+      "path": "/main",
+      "component": "main"
+    },
+    {
+      "path": "/MeetingPoint",
+      "component": "MeetingPoint"
+    },
+    {
+      "path": "/navigation",
+      "component": "navigation"
+    },
+    {
+      "path": "/NextAvailableButton",
+      "component": "NextAvailableButton"
+    },
+    {
+      "path": "/not-found",
+      "component": "not-found"
+    },
+    {
+      "path": "/progress",
+      "component": "progress"
+    },
+    {
+      "path": "/reviews-section",
+      "component": "reviews-section"
+    },
+    {
+      "path": "/Reviews",
+      "component": "Reviews"
+    },
+    {
+      "path": "/select",
+      "component": "select"
+    },
+    {
+      "path": "/separator",
+      "component": "separator"
+    },
+    {
+      "path": "/skeleton",
+      "component": "skeleton"
+    },
+    {
+      "path": "/SpaceForceMuseum",
+      "component": "SpaceForceMuseum"
+    },
+    {
+      "path": "/textarea",
+      "component": "textarea"
+    },
+    {
+      "path": "/toast",
+      "component": "toast"
+    },
+    {
+      "path": "/toaster",
+      "component": "toaster"
+    },
+    {
+      "path": "/tooltip",
+      "component": "tooltip"
+    },
+    {
+      "path": "/TourCalendar",
+      "component": "TourCalendar"
+    },
+    {
+      "path": "/tours-section",
+      "component": "tours-section"
+    },
+    {
+      "path": "/use-scroll",
+      "component": "use-scroll"
+    },
+    {
+      "path": "/use-toast",
+      "component": "use-toast"
+    }
+  ],
+  "dataModels": [
+    {
+      "file": "authentic-august-tours.json",
+      "schema": {
+        "year": "int",
+        "months": [
+          {
+            "month": "str",
+            "events": [
+              {
+                "date_human": "str",
+                "date_iso": "str",
+                "tour_name": "str",
+                "duration_hours": "int",
+                "time_label": "str",
+                "time_24h": "str",
+                "status": "str",
+                "spots_left": "null",
+                "waitlist": "bool"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "file": "tours_2025_aug-sep-oct-nov_v2.json",
+      "schema": {
+        "year": "int",
+        "months": [
+          {
+            "month": "str",
+            "events": [
+              {
+                "date_human": "str",
+                "date_iso": "str",
+                "tour_name": "str",
+                "duration_hours": "int",
+                "time_label": "str",
+                "time_24h": "str",
+                "status": "str",
+                "spots_left": "null",
+                "waitlist": "bool"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "file": "tours_2025_complete.json",
+      "schema": {
+        "year": "int",
+        "months": [
+          {
+            "month": "str",
+            "events": [
+              {
+                "date_human": "str",
+                "date_iso": "str",
+                "tour_name": "str",
+                "duration_hours": "int",
+                "time_label": "str",
+                "time_24h": "str",
+                "status": "str",
+                "spots_left": "null",
+                "waitlist": "bool"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "tokens": {}
+}

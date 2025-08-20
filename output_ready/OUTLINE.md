@@ -1,0 +1,158 @@
+# Project Outline
+
+## Pages
+- **Untitled**  (`/about-section`) — src: converted/about-section.html
+- **Untitled**  (`/App`) — src: converted/App.html
+- **Untitled**  (`/availability-dashboard`) — src: converted/availability-dashboard.html
+- **Untitled**  (`/AvailabilityDashboard`) — src: converted/AvailabilityDashboard.html
+- **Untitled**  (`/badge`) — src: converted/badge.html
+- **Untitled**  (`/booking-section`) — src: converted/booking-section.html
+- **Untitled**  (`/button`) — src: converted/button.html
+- **Untitled**  (`/card`) — src: converted/card.html
+- **Untitled**  (`/checkbox`) — src: converted/checkbox.html
+- **Untitled**  (`/contact-section`) — src: converted/contact-section.html
+  - section: `grid lg:grid-cols-2 gap-12`
+- **Untitled**  (`/dialog`) — src: converted/dialog.html
+- **Untitled**  (`/footer`) — src: converted/footer.html
+- **Untitled**  (`/hero-section`) — src: converted/hero-section.html
+- **Untitled**  (`/home`) — src: converted/home.html
+- **Untitled**  (`/input`) — src: converted/input.html
+- **Untitled**  (`/label`) — src: converted/label.html
+- **Untitled**  (`/LighthouseTours`) — src: converted/LighthouseTours.html
+- **Untitled**  (`/main`) — src: converted/main.html
+- **Untitled**  (`/MeetingPoint`) — src: converted/MeetingPoint.html
+  - section: `
+        mt-3
+        grid
+        grid-rows-[auto_auto_1fr]
+        gap-2
+        min-h-[180px]
+      `
+- **Untitled**  (`/navigation`) — src: converted/navigation.html
+- **Untitled**  (`/NextAvailableButton`) — src: converted/NextAvailableButton.html
+- **404 Page Not Found**  (`/not-found`) — src: converted/not-found.html
+- **Untitled**  (`/progress`) — src: converted/progress.html
+- **Untitled**  (`/reviews-section`) — src: converted/reviews-section.html
+- **Untitled**  (`/Reviews`) — src: converted/Reviews.html
+- **Untitled**  (`/select`) — src: converted/select.html
+- **Untitled**  (`/separator`) — src: converted/separator.html
+- **Untitled**  (`/skeleton`) — src: converted/skeleton.html
+- **Untitled**  (`/SpaceForceMuseum`) — src: converted/SpaceForceMuseum.html
+- **Untitled**  (`/textarea`) — src: converted/textarea.html
+- **Untitled**  (`/toast`) — src: converted/toast.html
+- **Untitled**  (`/toaster`) — src: converted/toaster.html
+- **Untitled**  (`/tooltip`) — src: converted/tooltip.html
+- **Untitled**  (`/TourCalendar`) — src: converted/TourCalendar.html
+- **Untitled**  (`/tours-section`) — src: converted/tours-section.html
+- **Untitled**  (`/use-scroll`) — src: converted/use-scroll.html
+- **Untitled**  (`/use-toast`) — src: converted/use-toast.html
+
+## Components
+- AboutSection
+- AlertCircle
+- AlertTriangle
+- App
+- Array
+- ArrowRight
+- AvailabilityDashboard
+- Badge
+- Booking
+- BookingSection
+- Building
+- Button
+- Calendar
+- Camera
+- Card
+- CardContent
+- CardFooter
+- CardHeader
+- CardTitle
+- Check
+- CheckCircle
+- Checkbox
+- CheckboxPrimitive
+- ChevronDown
+- ChevronIcon
+- ChevronLeft
+- ChevronRight
+- ChevronUp
+- Clock
+- Comp
+- ContactMessage
+- ContactSection
+- Dialog
+- DialogContent
+- DialogHeader
+- DialogOverlay
+- DialogPortal
+- DialogPrimitive
+- DialogTitle
+- Footer
+- HTMLButtonElement
+- HTMLDivElement
+- HTMLElement
+- HTMLInputElement
+- HTMLTextAreaElement
+- HelmetProvider
+- HeroSection
+- Input
+- Label
+- LabelPrimitive
+- Link
+- MapPin
+- Navigation
+- NextAvailableButton
+- NodeJS
+- Progress
+- ProgressPrimitive
+- QueryClientProvider
+- React
+- Record
+- RefreshCw
+- Response
+- Review
+- ReviewsSection
+- Rocket
+- Route
+- Router
+- Select
+- SelectContent
+- SelectItem
+- SelectPrimitive
+- SelectScrollDownButton
+- SelectScrollUpButton
+- SelectTrigger
+- SelectValue
+- SeparatorPrimitive
+- Server
+- Skeleton
+- SparkleIcon
+- State
+- Switch
+- T
+- Textarea
+- Toast
+- ToastClose
+- ToastDescription
+- ToastPrimitives
+- ToastProvider
+- ToastTitle
+- ToastViewport
+- Toaster
+- ToasterToast
+- TooltipPrimitive
+- TooltipProvider
+- Tour
+- TourCalendar
+- TourCard
+- TourEvent
+- ToursDropdown
+- ToursResponse
+- ToursSection
+- User
+- X
+
+## Data Models
+- `authentic-august-tours.json` schema: `{"year": "int", "months": [{"month": "str", "events": [{"date_human": "str", "date_iso": "str", "tour_name": "str", "duration_hours": "int", "time_label": "str", "time_24h": "str", "status": "str", "spots_left": "null", "waitlist": "bool"}]}]}`
+- `tours_2025_aug-sep-oct-nov_v2.json` schema: `{"year": "int", "months": [{"month": "str", "events": [{"date_human": "str", "date_iso": "str", "tour_name": "str", "duration_hours": "int", "time_label": "str", "time_24h": "str", "status": "str", "spots_left": "null", "waitlist": "bool"}]}]}`
+- `tours_2025_complete.json` schema: `{"year": "int", "months": [{"month": "str", "events": [{"date_human": "str", "date_iso": "str", "tour_name": "str", "duration_hours": "int", "time_label": "str", "time_24h": "str", "status": "str", "spots_left": "null", "waitlist": "bool"}]}]}`
